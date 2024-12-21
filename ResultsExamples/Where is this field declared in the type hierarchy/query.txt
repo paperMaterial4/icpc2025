@@ -1,0 +1,3 @@
+MATCH (field:cVariable{id:"decl;Rook::hasMoved;;"})<-[:contain]-(class:cClass)
+MATCH typeHierarchy=(class)-[:compose|inherit*]->(otherType:cClass)
+RETURN field, typeHierarchy;

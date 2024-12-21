@@ -1,0 +1,1 @@
+MATCH (f1:cFunction) WHERE NOT (f1)<-[:call]-() RETURN f1

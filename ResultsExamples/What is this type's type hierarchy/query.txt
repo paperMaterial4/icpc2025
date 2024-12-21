@@ -1,0 +1,2 @@
+MATCH typeHierarchy=(t1:cClass{id:"decl;Rook;;"})-[:compose|inherit*]-(otherType:cClass)
+RETURN typeHierarchy;
