@@ -1,2 +1,0 @@
-MATCH (subClass:cClass{id:"decl;Rook;;"})-[:inherit]->(superclass:cClass)<-[:inherit]-(sibling:cClass)
-RETURN DISTINCT sibling;
