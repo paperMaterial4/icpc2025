@@ -1,0 +1,300 @@
+Question,Category
+How does the age of code affect its quality, complexity, maintainbility, and security?,Code quality
+What is the impact of coding guidelines on software quality, maintainability, and evolution?,Code quality
+How can we objectively measure software quality?,Code quality
+How did this ever work?,Code quality
+How effective are the quality gates we run at checkin?,Code quality
+How much code is left out of the final build because it does pass our quality bars?,Code quality
+How much does software quality benefit from using a Capability Maturity Model (CMM)?,Code quality
+What are causes of poor software quality (e.g. test case regressions)?,Code quality
+What impact does code quality have on our ability to monetize a service?,Code quality
+How do we measure complexity of a software component?,Code quality
+How do code churn, number of bugs, test case regressions, and development costs correlate with one another?,Development cost
+What is the best way to reduce the cost of application localization (e.g. time, number of employees, automation)?,Development cost
+What is the cost of keeping legacy code (e.g., app compat, testability, bugginess)?,Development cost
+What are the tradeoffs that affect the value of specifications (e.g., level of detail, effort estimation accuracy, number of misunderstandings)?,Development cost
+What tradeoffs should we consider when optimizing our code for performance, maintainability, and debuggability?,Development cost
+Which metrics should we use to estimate how long it will take to develop a feature, and how good is each one?,Development cost
+Are the benefits of this refactoring worth the time investment?,Development cost
+How does the size of a code change correlate with risk?,Development cost
+How much do design changes cost us and how can we reduce their risk?,Development cost
+How much does adding an extra feature impact our ship time?,Development cost
+How much effort was put into this code?,Development cost
+How much time and money does it cost to add customer input into your design?,Development cost
+Is this worth my time?,Development cost
+What are the tradeoffs between agility and code quality in cloud services?,Development cost
+What are the tradeoffs to adding runtime telemetry to software?,Development cost
+What is the cost of leaving dead code around?,Development cost
+What is the cost of scenario-focused engineering?,Development cost
+What is the cost to team productivity when a team member leaves?,Development cost
+What is the cost to team productivity when hiring a new team member?,Development cost
+What is the impact and/or cost of findings bugs at a certain stage in the development cycle?,Development cost
+What is the tradeoff between frequency and high-quality when releasing software?,Development cost
+How much effort does it take to move code between branches?,Development cost
+How does Agile methodology affect our software project (e.g., maintainability, refactoring, innovation, milestone planning, software quality, and inter-team dependencies)?,Engineering process
+How does having a consistent, company-wide software process and tool chain impact creativity?,Engineering process
+What coding and design patterns are used most often, how much do they vary between teams?,Engineering process
+How does the ratio of different roles (e.g., managers, leads, individual contributors, vendors) affect a project and its software process?,Engineering process
+Am I following all development conventions ,Engineering process
+When should we use distributed verson control (e.g., git) vs. centralized version control (e.g., Source Depot, TFS)?,Engineering process
+Which branching structure is most effective for our project (single branch, multple branches, hierarchical branches)?,Engineering process
+What is the optimal number of employees (e.g. SDE, SDET, PM) to do a code review?,Engineering process
+What criteria should we decide when to use managed code or native code (e.g., speed, productivity, functionality, newer language features, code quality)?,Engineering process
+What are the benefits of a consistent, company-wide software process and tool chain?,Engineering process
+How should we balance process effectivess, software quality, and work-life balance?,Engineering process
+How much time should go into testing and development, and what impact would this have on our software?,Engineering process
+Does the final release to customers include my code?,Engineering process
+Have changes in another branch been integrated into this branch?,Engineering process
+How can I blend my current software process with Agile techniques?,Engineering process
+How do software methodologies affect the success and customer satisfaction of shrinkwrapped and service-oriented products?,Engineering process
+How do we make code reviews take less time?,Engineering process
+How frequently should I refactor my code?,Engineering process
+How intensively the project is maintained. ,Engineering process
+How long should our sprint be?,Engineering process
+How is the allocation lifetime of this object maintained?,Engineering process
+How much confidence do we have in stand-alone projects to be merged into master branch/baseline?,Engineering process
+How much confidence do we have in the release to deploy to the customers?,Engineering process
+How much confidence do we have in the test suites?,Engineering process
+How much debugging is needed per line of code?,Engineering process
+How much time should be spent on planning vs. coding?,Engineering process
+How much time went into planning vs. coding?,Engineering process
+How much time went into testing vs. into development?,Engineering process
+How often does code review find important bugs?,Engineering process
+How should we do Test-Driven Development while prototyping?,Engineering process
+How should we use metrics to help us decide when a feature is good enough to release (or poor enough to cancel)?,Engineering process
+How well does pair programming work?,Engineering process
+Is the given feature ready to release to customers?,Engineering process
+Is the given new feature implemented?,Engineering process
+Is this the correct policy for doing this?,Engineering process
+Questions about the protocol to follow within the project,Engineering process
+Questions asking about timeline or time of occurrence ,Engineering process
+Questions which attempt to identify how some goal of the system is achieved or how some software tool feature is employed ,Engineering process
+Should I branch or code against the main branch?,Engineering process
+Should we do Test-Driven Development?,Engineering process
+To learn software engineering techniques and practices ,Engineering process
+What are benefits of Test-Driven Development for Microsoft?,Engineering process
+What are best practices for avoiding bugs while writing code?,Engineering process
+What are best practices for operating cloud-based databases?,Engineering process
+What are effective metrics for ship quality?,Engineering process
+What criteria should you use to choose a development environment?,Engineering process
+What development practices cause teams to miss their deadlines?,Engineering process
+What is the policy for doing this?,Engineering process
+What is the tradeoff between releasing more features or releasing more often?,Engineering process
+What kinds of problems happen because there is too much software process?,Engineering process
+What tasks are pending in the pipeline for a long time?,Engineering process
+What value does Agile add to a software project?,Engineering process
+When in the development cycle should we test performance?,Engineering process
+When is Agile better than Waterfall?,Engineering process
+When should I write code from scratch vs. reuse legacy code?,Engineering process
+When should we rewrite software for the cloud instead of migrating it?,Engineering process
+When should we should stop trying to improve performance and ship?,Engineering process
+When should we use formal methods to create and/or analyze our software?,Engineering process
+When should we write unit tests?,Engineering process
+Where does writing documentation best fit into the software lifecycle?,Engineering process
+Which Agile techniques should I use for my project?,Engineering process
+Which changes are part of this submission?,Engineering process
+Which development methodology most often results in shorter ship times and fewer bugs?,Engineering process
+What is the best way to learn a new area of an existing code base?,Engineering process
+Can my team members/resources provide me with more information?,Engineering team
+confirmation ,Engineering team
+clarification ,Engineering team
+Did I follow my team’s conventions?,Engineering team
+Did my teammates do this?,Engineering team
+Did someone else fix similar bugs ,Engineering team
+How are other developers going to use my code ,Engineering team
+How can we improve collaboration and sharing between teams?,Engineering team
+How do I convince my teammates to do this the “right way”?,Engineering team
+How much distinction should there be between SDE/SDET roles?,Engineering team
+How often does a specific employee deliver new code to the system?,Engineering team
+I only want to get notified on code changes when my code is affected ,Engineering team
+Questions asking for the relevant persons to seek information from or to perform a task ,Engineering team
+What have my coworkers been doing?,Engineering team
+What is the influence of a team's organizational structure on its project scope and time-to-market?,Engineering team
+What is the optimal team size N for feature of scope M?,Engineering team
+Who has experience with the component ,Engineering team
+Who has experience with this code ,Engineering team
+Who should be in charge of creating and maintaining a consistent company-wide software process and tool chain?,Engineering team
+What are the attributes of high-performing engineers, and how much more do they contribute to their project?,Engineer performance
+Which coding measures correlate with employee productivity (e.g., lines of code, time it take to build the software, a particular tool set, pair programming, number of hours of coding per day, language)?,Engineer performance
+Which individual measures correlate with employee productivity (e.g., employee age, tenure, engineering skills, education, promotion velocity, IQ)?,Engineer performance
+Which organizational measures correlate with employee productivity (e.g., open workspace vs. traditional office, organizational churn, reorg timing)?,Engineer performance
+How can an employee monitor his/her own productivity?,Engineer performance
+How can we measure the productivity of a Microsoft employee?,Engineer performance
+In what places in their software code do developers make the most mistakes?,Engineer performance
+Is the number of bugs a good measure of developer effectiveness?,Engineer performance
+What are best key performance indicators (KPIs) for monitoring services?,Engineer performance
+What is the best way to track work items?,Engineer performance
+What is the relationship between an employee's performance rating and the success of his/her project?,Engineer performance
+What kinds of mistakes do developers make in their software? Which ones are the most common?,Engineer performance
+What metrics can be used to compare employees?,Engineer performance
+Who created this artifact?,Code/Artifact ownership
+Highly often used methods are better maintained by me. ,Code/Artifact ownership
+Is shared code ownership a good idea?,Code/Artifact ownership
+Which team's component caused this bug?,Code/Artifact ownership
+Who broke the build?,Code/Artifact ownership
+Who is the owner or expert for this code?,Code/Artifact ownership
+Who the upstream developers are ,Code/Artifact ownership
+Who wrote this code?,Code/Artifact ownership
+Who wrote this piece of code ,Code/Artifact ownership
+About product design and architecture ,System design
+About product domain ,System design
+Application domain concepts ,System design
+Code examples help to learn a project's design ,System design
+Connected domain-program-situation model knowledge ,System design
+Domain simulation ,System design
+How does this concept work?,System design
+How has my code affected non-functional properties ofthe product?,System design
+How important is a particular requirement?,System design
+Is the existing design a good design?,System design
+List of issues/decisions considered during design ,System design
+List of routines that do most of the domain type work ,System design
+Nesting level of a particular procedure ,System design
+system ,System design
+The intent/rationale of the structure of the system ,System design
+The structure of the system ,System design
+To clarify the requirements ,System design
+What assumptions about pre(3)/post(2)conditions can be made?,System design
+What data structures and algorithms can I use ,System design
+What is the term for this concept?,System design
+What is this concept?,System design
+1. Which type represents this domain concept or this UI element or action?,System design
+What is the architecture of the code base?,System design
+What is the performance of this code (5) on a large, real dataset (3)?,Code performance
+Can this method have high stack consumption from recursion?,Code performance
+Function performance ,Code performance
+How big is this in memory?,Code performance
+What resources is this code using?,Code performance
+Which part of this code takes the most time?,Code performance
+Has this code always been this way?,Code evolution
+History of past modifications ,Code evolution
+How has it changed over time?,Code evolution
+How much legacy code is in my codebase?,Code evolution
+How often do source code files get modified?,Code evolution
+What recent changes have been made?,Code evolution
+Why and why was this artifact created/modified?,Code evolution
+Question to make sure that the asker or the audience has up to date information about current changes in the software ,Code evolution
+What are the best ways to change a product's features without losing customers?,Code evolution
+When should we refactor legacy code?,Code evolution
+Should I refactor this?,Code evolution
+Is it possible to refactor this?,Code evolution
+Is there functionality or code that could be refactored?,Code evolution
+What are benefits of unit testing over other kinds of testing (e.g., functional tests, integration tests, regression tests, process tests)?,Testing
+What impact does testing-in-production have on the customer (e.g., usage, monetization of services)?,Testing
+What is a test execution history ofa specific test case?,Testing
+What is the best way to test these scenarios (e.g., OEMs, drivers, network security, distributed systems, and multi-threaded code)?,Testing
+What is the effectiveness, reliability, and cost of automated testing?,Testing
+Which ofthe test cases are flaky?,Testing
+Which test strategies find the most impactful bugs (e.g., assertions, in-circuit testing, A/B testing)?,Testing
+Who should write unit tests, developers or testers?,Testing
+Can I generate 100% test coverage?,Testing
+Can I verify the information the tool provides?,Testing
+Do the test cases pass?,Testing
+Do unit tests save more time in debugging than they take to write/run/keep updated?,Testing
+How can I test this code or functionality?,Testing
+How can we create and run unit tests whose code and test inputs can be shared across teams?,Testing
+How do we measure test coverage with unit tests?,Testing
+How effective is performance testing?,Testing
+How much unit testing should be mandatory?,Testing
+How should we handle test redundancy and/or duplicate tests?,Testing
+How well does test coverage correspond to actual code usage by our customers?,Testing
+In which environment/machine do specific test cases fail?,Testing
+Is test coverage worth the effort?,Testing
+Is the test or code responsible for this test failure?,Testing
+Is this code used to test the program/functionality?,Testing
+Is this entity or feature tested?,Testing
+Is this tested?,Testing
+Should we develop a separate test suite for servicing a product after we ship it?,Testing
+To learn how to test a specific task ,Testing
+What are the build/test results ofmy commits?,Testing
+What are the unstable areas ofthe code that require more test- ing/attention?,Testing
+What is the best way to test cloud services?,Testing
+What is the difference in bugs caught by manual and automated tests?,Testing
+What tests should I create and/or run after I change some part of the source code?,Testing
+When do I maintain or update a test vs. remove it?,Testing
+When is test automation worth it?,Testing
+When should we invest in centralized testing infrastructure?,Testing
+Which test cases/test suites have been run on which branch?,Testing
+Which test cases/test suites have been run on which product?,Testing
+Which test suites’ execution times have increasedrecently?,Testing
+What kind of documentation is most valuable to internal and/or external users (e.g., code comments, diagrams, prose)?,Documentation
+Acronym definitions ,Documentation
+documentation ,Documentation
+Documentation list and location ,Documentation
+Domain concept descriptions ,Documentation
+High-level description of how code is laid out ,Documentation
+List of identifiers and domain concepts that are important ,Documentation
+Location and description of library routines and system calls ,Documentation
+Location and uses of identifiers ,Documentation
+Naming conventions separeted by system of library objects that use them. Rules used for naming new identifiers ,Documentation
+UI-focused documentation style ,Documentation
+Up-to-date API and design documentation. ,Documentation
+What fraction of our documentation has bugs in it?,Documentation
+What information is in the documentation?,Documentation
+When are code comments worth the effort to write them?,Documentation
+Which internal release notes have my comments/code?,Documentation
+Is the documentation wrong, or is the code wrong?,Documentation
+How much value do customers place on backward compatibility?,Customer expectation
+Is our API understandable and flexible?,Customer expectation
+Know if many people like my code. ,Customer expectation
+What is the best way to collect customer feedback?,Customer expectation
+What parts of a software product are most used and/or loved by customers?,Customer expectation
+Does the user have access to this code?,User behaviour
+Failure reproduction steps ,User behaviour
+How can I replicate an attack to exploit this vulnerability?,User behaviour
+How do users typically use my application?,User behaviour
+How often do customers report bugs in code with high test coverage?,User behaviour
+If users follow the coding conventions I set ,User behaviour
+Know all my downstream projects. ,User behaviour
+Know the number of downloads. ,User behaviour
+Know what people build with my framework. ,User behaviour
+Know whether people migrate to the latest version of my library ,User behaviour
+Know who tracks my project. ,User behaviour
+The popularity of the project ,User behaviour
+The usability of my API ,User behaviour
+Use cases and user behavior ,User behaviour
+User goals and user motivation ,User behaviour
+Language definitions, e.g. reserved words, instruction defs, for C, Pascal, etc (Program understanding behavior during debugging of large scale software),Programming language
+Assembly language code segment number,Programming language
+Language conventions that are different from standard conventions. Lang enhancements ,Programming language
+syntax ,Programming language
+To improve skills in a programming language ,Programming language
+How can I annotate that these strings have been escaped and the tool should ignore the warning?,Tool use
+How can I use a particular feature in my development tool ,Tool use
+How can tool automation help find software design flaws?,Tool use
+How can we make it easier for people to find and use commonly used tools?,Tool use
+How do I use this fix in my code?,Tool use
+How do resources prevent or resolve this?,Tool use
+How do we simplify operations software and scripts?,Tool use
+How effective are particular tools and practices for debugging?,Tool use
+To learn specific software tools. ,Tool use
+What are the best tools and processes for sharing knowledge and task status?,Tool use
+What are the most commonly used tools on a software team?,Tool use
+What is the best way to integrate code review with other software tools?,Tool use
+What is the cost of not knowing about or using a tool in your software development process?,Tool use
+What is the impact of tools on productivity?,Tool use
+What is the tool output telling me?,Tool use
+What is the tool's confidence?,Tool use
+What tool do I need for this?,Tool use
+What tools can help us measure and estimate the risk associated with code changes?,Tool use
+Why is the tool complaining?,Tool use
+Available tools to aid in understanding ,Tool use
+How do I build this without doing a full build?,Building and deployment
+What do I need to include to build this?,Building and deployment
+Which preprocessor definitions were active when this was built?,Building and deployment
+Why did the build break?,Building and deployment
+How to configure the component ,Building and deployment
+How responsive the support team is ,Delivery
+The software license ,Delivery
+Question that reflects a choice between one and another subject ,Other (too general)
+Questions asking permission to do something or to check if something done is OK. This strategy is normally related with Legality/Protocol. ,Other (too general)
+What information was relevant to my task?,Other (too general)
+What method implementation corresponds to my question?,Other (too general)
+What should I do first?,Other (too general)
+What type of information does this resource link me to?,Other (too general)
+What was that again?,Other (too general)
+Where can I get more information?,Other (too general)
+Whether it takes more than an hour to get started ,Other (too general)
+Why do I care?,Other (too general)
+Do I understand?,Other (too general)
+Where am I in the code?,Other (too general)
+How do I avoid reinventing the wheel by sharing and/or searching for code?,Other (too general)
